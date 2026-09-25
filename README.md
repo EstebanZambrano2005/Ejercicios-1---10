@@ -17,7 +17,7 @@
 |--------|-----|-----------------|-------|
 | Kevin Garcés | Analista | @Javi2145 | Análisis del problema |
 | Cristian Gómez | Programador | @Cristian-GT2006 | Diseño del algoritmo |
-| Erick Cordónez | Diseñador | @Erick-100 | Diseño de diagrama de flujo |
+| Erick Cordonez | Diseñador | @Erick-100 | Diseño de diagrama de flujo |
 | Esteban Zambrano | Desarrollador | @EstebanZambrano2005| Diseño de Pseudocódigo |
 | Alex Cabrera | Desarrollador | @Alex2840 | Codificación |
 ## Objetivo
