@@ -1,5 +1,5 @@
 # Ejercicios-1---10
-## TRABAJO GRUPAL, GRUPO #02
+## APE_TRABAJO GRUPAL_GRUPO #02
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=ESTRUCTURAS%20DE%20CONTROL%20EN%20JAVA&fontSize=28&fontColor=00FFAB&animation=twinkling&fontAlignY=35&desc=Ciclos%2C%20Condicionales%20y%20L%C3%B3gica%20de%20Programaci%C3%B3n&descAlignY=55&descSize=16&stroke=00FFAB&strokeWidth=1"/>
