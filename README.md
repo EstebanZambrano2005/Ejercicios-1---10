@@ -24,4 +24,4 @@
 
 Desarrollar soluciones algorítmicas en Java integrando estructuras `for`, `while` y `do-while`, ciclos anidados, contadores, acumuladores y validación de datos, demostrando el proceso de construcción de cada solución mediante un repositorio GitHub.
 
-## Metodología de análisis
+
